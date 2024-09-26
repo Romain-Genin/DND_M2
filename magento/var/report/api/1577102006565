@@ -1,0 +1,1 @@
+"Fatal Error: 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes)' in '\/var\/www\/html\/vendor\/magento\/module-store\/Model\/Config\/Placeholder.php' on line 53"

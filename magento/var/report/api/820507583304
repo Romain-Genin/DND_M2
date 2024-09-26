@@ -1,0 +1,1 @@
+"Fatal Error: 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes)' in '\/var\/www\/html\/vendor\/magento\/framework\/App\/Config\/Initial\/Converter.php' on line 81"
